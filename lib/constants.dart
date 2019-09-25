@@ -17,3 +17,8 @@ const kMessageContainerDecoration = BoxDecoration(
     top: BorderSide(color: Colors.lightBlueAccent, width: 2.0),
   ),
 );
+
+const kTextFieldStyle = TextStyle(
+  color: Colors.black,
+  fontSize: 18.0,
+);
