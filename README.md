@@ -2,7 +2,7 @@
 
 ## Our Goal
 
-The objective of this application is to to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud based NoSQL database and secure authentication methods. 
+The objective of this application is to incorporate Firebase into Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud based NoSQL database and secure authentication methods. 
 
 
 ## What we will create
